@@ -1,0 +1,6 @@
+.dragged {
+    opacity: 0.5; 
+    transform: scale(0.95); 
+    transition: opacity 0.3s ease, transform 0.3s ease; /* Add transition effect */
+  }
+  
